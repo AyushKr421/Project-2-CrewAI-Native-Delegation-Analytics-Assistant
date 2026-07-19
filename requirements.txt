@@ -1,0 +1,8 @@
+streamlit
+crewai==1.15.1
+crewai-tools[mcp]
+fastmcp
+pandas
+python-dotenv
+requests
+pyyaml
